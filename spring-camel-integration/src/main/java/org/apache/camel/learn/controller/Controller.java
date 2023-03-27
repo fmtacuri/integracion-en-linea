@@ -11,7 +11,7 @@ public class Controller {
   @Autowired
   private ProducerTemplate template;
 
-  @PostMapping(value = "/crear-todos")
+  @PostMapping(value = "/actualizar-clientes")
   public String crearTerceros() {
     return template.requestBody("direct:crearAll", "").toString();
   }

@@ -20,11 +20,11 @@ public class RestRouter extends RouteBuilder {
         .to("rest:post:/persona?host=localhost:5000", "rest:post:/Persona?host=localhost:5011")
         .to("log:foo");
 
-    from("timer:hello?period={{timer.period}}").routeId("hello")
-        .transform().method("myBean", "saySomething")
-        .filter(simple("${body} contains 'foo'"))
-        .to("log:foo")
-        .end()
-        .to("stream:out");
+//    from("timer:hello?period={{timer.period}}").routeId("hello")
+//        .transform().method("myBean", "saySomething")
+//        .filter(simple("${body} contains 'foo'"))
+//        .to("log:foo")
+//        .end()
+//        .to("stream:out");
   }
 }
