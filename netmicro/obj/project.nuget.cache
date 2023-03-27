@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "G97fFCLkME5w6+tkWTNGJA0r7HpJ7nc8fNNZlq1jyxqrF/N05MKpxQpMwJo1leZMO7NYBRdaY4g+FhGTocXL2g==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Mis proyectos\\UPS\\Patrones empresariales\\Tareas\\Proyecto 2 CSV\\integracion-en-linea\\netmicro\\netmicro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\FreddyRoga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

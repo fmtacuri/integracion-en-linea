@@ -1,0 +1,66 @@
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\appsettings.Development.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\appsettings.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\netmicro.exe
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\netmicro.deps.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\netmicro.runtimeconfig.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\netmicro.pdb
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.csproj.AssemblyReference.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.AssemblyInfoInputs.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.AssemblyInfo.cs
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.csproj.CoreCompileInputs.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.netmicro.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.build.netmicro.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.netmicro.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.netmicro.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets.build.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\staticwebassets.development.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\scopedcss\bundle\netmicro.styles.css
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.csproj.CopyComplete
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\refint\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.pdb
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\netmicro.genruntimeconfig.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Net\netmicro\obj\Debug\net7.0\ref\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\appsettings.Development.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\appsettings.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\netmicro.exe
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\netmicro.deps.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\netmicro.runtimeconfig.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\netmicro.pdb
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.csproj.AssemblyReference.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.AssemblyInfoInputs.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.AssemblyInfo.cs
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.csproj.CoreCompileInputs.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.netmicro.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.build.netmicro.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.netmicro.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.netmicro.props
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets.build.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\staticwebassets.development.json
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\scopedcss\bundle\netmicro.styles.css
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.csproj.CopyComplete
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\refint\netmicro.dll
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.pdb
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\netmicro.genruntimeconfig.cache
+D:\Documentos\Mis proyectos\UPS\Patrones empresariales\Tareas\Proyecto 2 CSV\integracion-en-linea\netmicro\obj\Debug\net7.0\ref\netmicro.dll
