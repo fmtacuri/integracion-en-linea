@@ -15,9 +15,12 @@ public class RestRouter extends RouteBuilder {
   public void configure() throws Exception {
 
     from("direct:updateAll").routeId("actualizarTerceros").process(new ValidateProfile())
-        .marshal(jacksonDataFormat).multicast().choice().when(header("isDigital").contains("true"))
-        .to("rest:put:/persona?host=localhost:5000").log("Camino por el servicio en python")
-        .otherwise().to("rest:put:/Persona?host=localhost:5011")
-        .log("Camino por el servicio netCore").end();
+        .marshal(jacksonDataFormat).multicast()
+        .choice()
+          .when(header("isDigital").contains("true"))
+            .to("rest:put:/persona?host=localhost:5000").log("Camino por el servicio en python")
+        .otherwise()
+          .to("rest:put:/Persona?host=localhost:5011")
+          .log("Camino por el servicio netCore").end();
   }
 }
