@@ -2,8 +2,8 @@ package org.apache.camel.learn.route;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.component.jackson.JacksonDataFormat;
-import org.apache.camel.learn.domain.CrearPersonaProcess;
 import org.apache.camel.learn.domain.Persona;
+import org.apache.camel.learn.domain.ValidateProfile;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -13,18 +13,11 @@ public class RestRouter extends RouteBuilder {
 
   @Override
   public void configure() throws Exception {
-    from("direct:updateAll").routeId("actualizarTerceros").process(new CrearPersonaProcess())
-        .marshal(jacksonDataFormat)
-        .multicast()
-        .parallelProcessing()
-        .to("rest:put:/persona?host=localhost:5000", "rest:put:/Persona?host=localhost:5011")
-        .to("log:foo");
 
-//    from("timer:hello?period={{timer.period}}").routeId("hello")
-//        .transform().method("myBean", "saySomething")
-//        .filter(simple("${body} contains 'foo'"))
-//        .to("log:foo")
-//        .end()
-//        .to("stream:out");
+    from("direct:updateAll").routeId("actualizarTerceros").process(new ValidateProfile())
+        .marshal(jacksonDataFormat).multicast().choice().when(header("isDigital").contains("true"))
+        .to("rest:put:/persona?host=localhost:5000").log("Camino por el servicio en python")
+        .otherwise().to("rest:put:/Persona?host=localhost:5011")
+        .log("Camino por el servicio netCore").end();
   }
 }

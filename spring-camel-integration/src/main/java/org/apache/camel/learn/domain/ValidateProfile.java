@@ -5,14 +5,13 @@ import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 
 @Log4j2
-public class CrearPersonaProcess implements Processor {
+public class ValidateProfile implements Processor {
 
   @Override
   public void process(Exchange exchange) throws Exception {
     log.info("Actualizar persona");
-    Persona persona = Persona.builder().codigo(12345).direccion("UI").nombres("User")
-        .identificacion("1724242424").pago(1904).build();
+    Persona persona = exchange.getIn().getBody(Persona.class);
     log.info("Persona data: {}", persona.toString());
-    exchange.getIn().setBody(persona);
+    exchange.getIn().setHeader("isDigital", persona.getPago() < 1000);
   }
 }
