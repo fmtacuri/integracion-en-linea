@@ -9,9 +9,9 @@ public class CrearPersonaProcess implements Processor {
 
   @Override
   public void process(Exchange exchange) throws Exception {
-    log.info("Crear persona");
-    Persona persona = Persona.builder().codigo(1955).direccion("UI").nombres("User")
-        .identificacion("17xxx").build();
+    log.info("Actualizar persona");
+    Persona persona = Persona.builder().codigo(12345).direccion("UI").nombres("User")
+        .identificacion("1724242424").pago(1904).build();
     log.info("Persona data: {}", persona.toString());
     exchange.getIn().setBody(persona);
   }

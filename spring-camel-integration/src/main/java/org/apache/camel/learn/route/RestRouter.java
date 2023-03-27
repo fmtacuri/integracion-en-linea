@@ -13,11 +13,11 @@ public class RestRouter extends RouteBuilder {
 
   @Override
   public void configure() throws Exception {
-    from("direct:crearAll").routeId("crearEnTerceros").process(new CrearPersonaProcess())
+    from("direct:updateAll").routeId("actualizarTerceros").process(new CrearPersonaProcess())
         .marshal(jacksonDataFormat)
         .multicast()
         .parallelProcessing()
-        .to("rest:post:/persona?host=localhost:5000", "rest:post:/Persona?host=localhost:5011")
+        .to("rest:put:/persona?host=localhost:5000", "rest:put:/Persona?host=localhost:5011")
         .to("log:foo");
 
 //    from("timer:hello?period={{timer.period}}").routeId("hello")

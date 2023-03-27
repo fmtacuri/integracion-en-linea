@@ -13,6 +13,6 @@ public class Controller {
 
   @PostMapping(value = "/actualizar-clientes")
   public String crearTerceros() {
-    return template.requestBody("direct:crearAll", "").toString();
+    return template.requestBody("direct:updateAll", "").toString();
   }
 }

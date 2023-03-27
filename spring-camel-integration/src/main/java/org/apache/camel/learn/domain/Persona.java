@@ -18,6 +18,7 @@ public class Persona {
   String nombres;
   String identificacion;
   int codigo;
+  int pago;
 
   @Override
   public String toString() {
